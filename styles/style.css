@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    /* border: 1px solid rebeccapurple; */
+    background-color: rebeccapurple;
+    height: 50px;
+    width: 100%;
+}
